@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 - 👨🏻‍💻 I’m an iOS developer in Shenzhen
 - 📚 Swift & iOS
+- 🌱 I’m currently learning golang, unity
