@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 👨🏻‍💻 I’m an iOS developer in Shenzhen
-- 📚 Swift & iOS
-- 🌱 I’m currently learning golang, unity
+- 👨🏻‍💻 Write code with `golang`, `swift`
+- 📚 Swift & iOS, Backend & Golang
+- 🌱 I’m currently learning golang, DevOps
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpectatorNan&hide=CSS,shell,Objective-C" width="40%"/>
